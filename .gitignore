@@ -1,0 +1,8 @@
+docs/_build
+.idea
+
+# Ignore files generated during build
+build/
+
+# Ignore custom auto env setting
+.env
